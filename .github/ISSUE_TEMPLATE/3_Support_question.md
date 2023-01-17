@@ -1,11 +1,18 @@
 ---
-name: ⛔ Support Question
-about: See https://api-platform.com/community/ for questions about using API Platform
+name: Question
+about: Ask a question / how-to about this project
+title: ''
+labels: question
+assignees: ''
 
 ---
 
-We use GitHub issues only to discuss about bugs and new features.
-For this kind of questions about using API Platform, please use
-any of the support alternatives shown in https://api-platform.com/community/
+**Is your question related to a problem? Please describe.**
+A clear and concise description of what the problem is. 
 
-Thanks!
+Ex :
+- I cannot figure how [...]
+- Is ElasticSuite able to [...]
+
+**Additional context**
+Add any other context or screenshots about your question here.

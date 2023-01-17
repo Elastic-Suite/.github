@@ -1,1 +1,1 @@
-# API Platform Health Files
+# ElasticSuite community files 
